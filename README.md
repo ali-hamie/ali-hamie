@@ -20,6 +20,14 @@ I have hands-on experience with security labs, AI-integrated systems, database d
 - **Databases:** MariaDB, SQL, ER Modeling, Normalization
 - **Development:** Git, GitHub, Documentation, Testing
 
+## Current Learning Focus
+
+- AI security and secure AI integration
+- API security and backend development
+- Git/GitHub version control
+- Basic GenAI and LLM concepts
+- Threat hunting and detection engineering
+
 ## Featured Projects
 
 ### Cafe Management System
